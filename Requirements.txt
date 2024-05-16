@@ -1,7 +1,7 @@
 click==8.0.4
 colorama==0.4.4
 cycler==0.11.0
-Flask==2.0.3
+Flask==2.2.2
 fonttools==4.30.0
 gunicorn==22.0.0
 itsdangerous==2.1.1
